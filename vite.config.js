@@ -10,7 +10,7 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
-  base: '/Mi-Portafolio/', // ¡No olvides los slashes / / !
+  base: '/Mi-Portafolio/', //
   build: {
     rollupOptions: {
       output: {
